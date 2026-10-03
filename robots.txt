@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard.html
+Disallow: /login.html
+Disallow: /cart.html
+Disallow: /chat.html
+
+Sitemap: https://estakhrjo.ir/sitemap.xml
