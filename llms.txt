@@ -1,0 +1,27 @@
+# استخر جو | ESTAKHRJO
+
+> استخر جو (ESTAKHRJO) بزرگ‌ترین اکوسیستم شنای ایران است: یافتن و رزرو استخر، مربی شنا، آموزش و دوره، تجهیزات شنا و استخدام. Persian-language swimming ecosystem of Iran: pools, coaches, courses, gear and jobs.
+
+## بخش‌های اصلی سایت
+
+- [استخرها و مجموعه‌های آبی](https://estakhrjo.ir/pools.html): فهرست استخرهای سرپوشیده و روباز با مشخصات و امکان رزرو
+- [مربیان شنا](https://estakhrjo.ir/coaches.html): مربیان تأییدشده با سوابق، مدارک و صفحهٔ عمومی اختصاصی
+- [دوره‌ها و آموزش](https://estakhrjo.ir/courses.html): کلاس‌ها و دوره‌های شنا و آب‌درمانی
+- [آب‌درمانی](https://estakhrjo.ir/hydro.html): خدمات آب‌درمانی و توان‌بخشی آبی
+- [فروشگاه تجهیزات](https://estakhrjo.ir/market.html): فروشگاه‌ها و تجهیزات شنا
+- [رویدادها](https://estakhrjo.ir/events.html) و [مقالات](https://estakhrjo.ir/articles.html)
+- [استخدام و رزومه](https://estakhrjo.ir/jobs.html): فرصت‌های شغلی صنعت شنا و رزومهٔ مربیان در [رزومه‌ها](https://estakhrjo.ir/resumes.html)
+- [نزدیک من](https://estakhrjo.ir/nearby.html): یافتن استخر/مربی بر اساس موقعیت
+
+## صفحات عمومی اعضا
+
+هر استخر، مربی یا فروشگاه عضو، یک صفحهٔ عمومی اختصاصی با نشانی `https://estakhrjo.ir/@username` دارد که با اسکیمای Schema.org (Person / SportsActivityLocation / Organization) علامت‌گذاری شده‌اند؛ نمونه: https://estakhrjo.ir/@elhamtalebi
+
+## دادهٔ ساختاریافته و خزنده‌ها
+
+- نقشه‌سایت: https://estakhrjo.ir/sitemap.xml
+- robots: https://estakhrjo.ir/robots.txt
+
+## تماس
+
+پلتفرم استخر جو، ایران — وب‌سایت رسمی: https://estakhrjo.ir
